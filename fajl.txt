@@ -1,2 +1,6 @@
 mmm
+
 nova izmena
+
+izmena sa grane na fajlu tri ali je izmena bila i na masteru
+
